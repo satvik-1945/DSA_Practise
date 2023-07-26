@@ -1,0 +1,1 @@
+{"name":"Local: GigaFactories","url":"/home/satvik/f drirectory/Algo University/DP-1/Knapsac/GigaFactories.cpp","tests":[{"id":1688318788039,"input":"5 25\n7 77\n5 6\n23 20\n2 97\n3 31","output":"211"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/satvik/f drirectory/Algo University/DP-1/Knapsac/GigaFactories.cpp","group":"local","local":true}

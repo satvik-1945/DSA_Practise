@@ -1,0 +1,1 @@
+{"name":"Local: avoidingCities","url":"/home/satvik/f drirectory/Algo University/BFS/avoidingCities.cpp","tests":[{"id":1686163939712,"input":"5 5\n0 2\n0 1 0 0 0\n0 1\n1 2\n0 3\n3 4\n4 2","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/satvik/f drirectory/Algo University/BFS/avoidingCities.cpp","group":"local","local":true}

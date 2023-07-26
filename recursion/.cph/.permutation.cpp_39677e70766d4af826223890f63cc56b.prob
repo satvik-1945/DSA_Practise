@@ -1,0 +1,1 @@
+{"name":"Local: permutation","url":"/home/satvik/f drirectory/Algo University/recursion/permutation.cpp","tests":[{"id":1685727868427,"input":"cb","output":"bc\ncb"},{"id":1685727882639,"input":"w","output":"w"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/satvik/f drirectory/Algo University/recursion/permutation.cpp","group":"local","local":true}

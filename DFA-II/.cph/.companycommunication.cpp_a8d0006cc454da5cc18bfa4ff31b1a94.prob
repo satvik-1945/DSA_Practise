@@ -1,0 +1,1 @@
+{"name":"Local: companycommunication","url":"/home/satvik/f drirectory/Algo University/DFA-II/companycommunication.cpp","tests":[{"id":1687020860157,"input":"4 6\n3 1 2 3\n2 4 2\n2 4 6\n1 6","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/satvik/f drirectory/Algo University/DFA-II/companycommunication.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: FarthestNode","url":"/home/satvik/f drirectory/Algo University/DFA-II/FarthestNode.cpp","tests":[{"id":1687173406567,"input":"5\n1 2\n1 3\n3 4\n3 5","output":"2 3 2 3 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/satvik/f drirectory/Algo University/DFA-II/FarthestNode.cpp","group":"local","local":true}

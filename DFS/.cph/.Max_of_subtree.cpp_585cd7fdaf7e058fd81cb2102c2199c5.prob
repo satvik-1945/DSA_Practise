@@ -1,0 +1,1 @@
+{"name":"Local: Max_of_subtree","url":"/home/satvik/f drirectory/Algo University/DFS/Max_of_subtree.cpp","tests":[{"id":1686431771720,"input":"4 4 5 8 8\n1 4\n2 3\n3 4\n4 7\n2 5\n5 6\n6 8\n7 8","output":"22"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/satvik/f drirectory/Algo University/DFS/Max_of_subtree.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: UniqueWindow","url":"/home/satvik/f drirectory/Algo University/A6:Hashing/UniqueWindow.cpp","tests":[{"id":1684858304264,"input":"6 3\n1 1 2 2 3 4","output":"2 2 2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/satvik/f drirectory/Algo University/A6:Hashing/UniqueWindow.cpp","group":"local","local":true}
